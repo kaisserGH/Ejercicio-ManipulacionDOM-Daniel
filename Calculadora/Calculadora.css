@@ -17,6 +17,7 @@ body {
   border-radius: 10px;
   border: none;
   box-shadow: black 2px 2px;
+  margin: 50px;
 }
 
 .botonPrincipal > a{
@@ -79,47 +80,3 @@ body {
   color: rgb(235, 137, 8);
   
 }
-
-/*
-
-.calculator h3 {
-  font-size: 18px;
-  margin-top: 10px;
-  color: #333;
-}
-
-.calculator h3 span {
-  font-weight: bold;
-  color: #333;
-}
-
-/* Estilos adicionales para mejorar la apariencia */
-
-/* * {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
-}
-
-body {
-  background-color: #f2f2f2;
-}
-
-.boton-inicio {
-  position: fixed;
-  top: 20px;
-  left: 20px;
-  z-index: 9999;
-}
-
-
-
-.boton-inicio .botonPrincipal:hover {
-  background-color: #555;
-  transform: scale(1.1);
-} */
-
-
-
-  
-  
